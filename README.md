@@ -1,4 +1,4 @@
-﻿# Hi, I'm kikemal 👋
+﻿# Hi, I'm kidist kemal 👋
 
 Welcome to my GitHub profile!
 <div align="center">
